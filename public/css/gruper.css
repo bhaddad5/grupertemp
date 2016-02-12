@@ -1,0 +1,69 @@
+/* applies to anything of class "example-class-selector" */
+.example-class-selector {
+	margin-top: 2em;
+}
+
+/* applies to any <p> descendants of an element of class "example-class-selector" */
+.example-class-selector p {
+	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
+	color: #CC00AA;
+}
+
+h1, h2, h3, h4, h5 {
+	color: #FFFFFF;
+}
+
+body {
+  background: url('http://www.pulsarmedia.eu/data/media/3/Clean%20Windows%208%20Pulsarmedia%20Wallpaper.jpg');
+}
+
+div.friend {
+	width: 300px;
+}
+
+.jumbotron {
+height:50px;
+padding-top: 0;
+padding-bottom: 0;
+background-color: #003366;
+color: #FFFFFF;
+}
+
+.u_name {
+  color: #000066;
+}
+
+.alignleft {
+  float: left;
+  width:33.33333%;
+  text-align:left;
+}
+.aligncenter {
+  float: left;
+  width:33.33333%;
+  text-align:center;
+}
+.alignright {
+ float: left;
+ width:33.33333%;
+ text-align:right;
+}​
+
+.info {
+  display: none;
+}
+
+.thumbnail {
+  margin-top: 20px;
+  width: 1500px;
+  background: url('http://imagemonster.com/wp-content/uploads/2015/03/rev-extended.jpg');
+  color: white;
+}
+
+#create_back {
+
+}
+
+#joined_back {
+  margin-left: 10px;
+}
